@@ -1,3 +1,10 @@
+favorites/*
+!favorites/README.md
+posts/*
+!posts/README.md
+
+.DS_Store
+
 # Logs
 logs
 *.log

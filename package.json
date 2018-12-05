@@ -1,0 +1,21 @@
+{
+  "name": "tumblr-backup",
+  "version": "1.0.0",
+  "description": "Download your posts and favorites from Tumblr",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "tumblr"
+  ],
+  "author": "ScopeXL",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "inquirer": "^6.2.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "request": "^2.88.0"
+  }
+}

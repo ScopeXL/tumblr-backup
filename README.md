@@ -7,7 +7,7 @@ You need `npm` to run this script.
 The easiest way to get `npm` is to download and install [node.js](https://nodejs.org/en/)
 
 # Installation
-* Download this repo or the official release.
+* Download this repo or from the [releases page](https://github.com/ScopeXL/tumblr-backup/releases).
 * Open a command prompt (or terminal window) and navigate to the root folder of this project.
 * Run commands
 ```
